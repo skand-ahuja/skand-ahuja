@@ -462,12 +462,21 @@ me = SkandAhuja()
   <br/><br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github-snake-dark.svg"
+      width="100%"
+      alt="GitHub Contribution Snake"
+    />
   </picture>
 
 </div>
 
 <!-- ============== END CONTRIBUTION SNAKE ================ -->
-
