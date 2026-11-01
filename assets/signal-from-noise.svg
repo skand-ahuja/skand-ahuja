@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F5A623"/>
+      <stop offset="100%" stop-color="#FF4D6D"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="18" fill="#0A0A0F"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+
+  <g fill="none" stroke="#F5A623" stroke-opacity=".35" stroke-width="1.5">
+    <path d="M720 75 L770 75 L785 105 L820 105 L845 60 L870 130 L900 85 L940 85"/>
+    <path d="M720 105 L750 105 L765 125 L800 125 L830 85 L850 145 L885 100 L940 100"/>
+    <path d="M720 135 L760 135 L780 155 L810 155 L840 115 L865 170 L900 135 L940 135"/>
+  </g>
+
+  <g fill="#FF4D6D" opacity=".8">
+    <circle cx="770" cy="75" r="3"/>
+    <circle cx="845" cy="60" r="3"/>
+    <circle cx="900" cy="85" r="3"/>
+  </g>
+
+  <g font-family="'Space Grotesk', Arial, sans-serif" font-weight="700">
+    <text x="72" y="62" fill="#F5A623" font-size="15" letter-spacing="5">
+      SKAND AHUJA / ENGINEERING
+    </text>
+    <text x="68" y="165" fill="#F5F5F5" font-size="76" letter-spacing="-3">
+      SIGNAL FROM
+    </text>
+    <text x="68" y="248" fill="url(#accent)" font-size="88" letter-spacing="-4">
+      NOISE.
+    </text>
+  </g>
+
+  <text x="73" y="295" fill="#F5F5F5" font-size="19"
+        font-family="'JetBrains Mono', monospace">
+    DATA &amp; SOFTWARE ENGINEER
+  </text>
+
+  <text x="73" y="328" fill="#92929D" font-size="15"
+        font-family="'JetBrains Mono', monospace">
+    BUILDING SYSTEMS THAT MAKE DATA USEFUL.
+  </text>
+
+  <text x="1125" y="325" text-anchor="end" fill="#F5A623"
+        font-size="12" font-family="'JetBrains Mono', monospace">
+    DATA / SYSTEMS / AUTOMATION
+  </text>
+</svg>
