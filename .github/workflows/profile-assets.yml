@@ -31,14 +31,16 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
 
+      
       - name: Combine Generated Assets
         run: |
-          mkdir -p dist
-          cp -r profile-summary-card-output/* dist/
+          mkdir -p publish
+          cp -r dist/. publish/
+          cp -r profile-summary-card-output/. publish/
 
       - name: Publish All Assets
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
-          folder: dist
+          folder: publish
           token: ${{ secrets.GITHUB_TOKEN }}
