@@ -1,160 +1,185 @@
+<!-- ===================================================== -->
+<!-- SKAND AHUJA | GITHUB PROFILE README                  -->
+<!-- DESIGN: SIGNAL FROM NOISE                            -->
+<!-- ===================================================== -->
+
 <div align="center">
+  <img src="./assets/signal-from-noise.svg" width="100%" alt="Signal from Noise — Skand Ahuja" />
 
-<!-- Animated Header using Capsule Render -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=200&section=header&text=Skand%20Ahuja&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20BI%20Developer%20%7C%20Analytics%20Architect&descAlignY=60&descSize=18&descColor=8B949E)](https://github.com/skand-ahuja)
+  <br/>
 
-<!-- Dynamic Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;Power+BI+%7C+SQL+%7C+Python+%7C+Snowflake;Building+dashboards+that+actually+matter+%E2%9A%A1;GNAP+Services+%7C+Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+  <h3>DATA & SOFTWARE ENGINEER</h3>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/skand-ahuja)
-[![GitHub](https://img.shields.io/badge/GitHub-skand--ahuja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skand-ahuja)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/skand-ahuja/portfolio-website)
-[![Profile Views](https://komarev.com/ghpvc/?username=skand-ahuja&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/skand-ahuja)
+  <p>
+    <strong>Building systems that make data useful.</strong>
+  </p>
 
+  <p>
+    <a href="https://www.linkedin.com/in/skand-ahuja/">
+      <img src="https://img.shields.io/badge/LINKEDIN-F5A623?style=flat-square&logo=linkedin&logoColor=0A0A0F" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/skand-ahuja">
+      <img src="https://img.shields.io/badge/GITHUB-FF4D6D?style=flat-square&logo=github&logoColor=0A0A0F" alt="GitHub"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-## 👋 Hey, I'm Skand
+## 01 / THE IDEA
 
-```python
-skand = {
-    "role"     : "Power BI Developer @ GNAP Services Pvt. Ltd.",
-    "focus"    : ["Business Intelligence", "Data Engineering", "Analytics"],
-    "stack"    : ["Power BI", "SQL Server", "Python", "Snowflake", "PostgreSQL"],
-    "cloud"    : ["Azure", "AWS", "Google Cloud"],
-    "building" : "Enterprise KPI dashboards & Power Apps for Nokia-related PMO workflows",
-    "learning" : ["Snowflake ❄️", "Python Automation 🐍", "Data Engineering pipelines 🔧"],
-    "fun_fact" : "I turn messy spreadsheets into boardroom-ready dashboards 📊"
-}
+I work at the intersection of **data, software engineering, and automation**.
+
+I take fragmented data, disconnected tools, and repetitive business processes and turn them into systems that people can actually use.
+
+My work spans the complete solution lifecycle:
+
+- Extracting, transforming, and structuring data.
+- Building automated reporting pipelines.
+- Developing analytics dashboards and internal platforms.
+- Designing APIs, databases, and user interfaces.
+- Turning business requirements into maintainable software.
+
+I care about more than getting the code to work. I care about whether the system solves the actual problem.
+
+---
+
+## 02 / ENGINEERING IN NUMBERS
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h1>115+</h1>
+        <sub>PROJECTS TRACKED</sub>
+      </td>
+      <td align="center" width="33%">
+        <h1>29</h1>
+        <sub>BUSINESS KPIs</sub>
+      </td>
+      <td align="center" width="33%">
+        <h1>20 MIN</h1>
+        <sub>REPORT PREPARATION</sub>
+      </td>
+    </tr>
+  </table>
+  <sub>Selected outcomes from professional internal-platform and reporting work.</sub>
+</div>
+
+One finance reporting workflow went from approximately **3–4 hours to 20 minutes** of preparation time.
+
+A PMO monitoring platform brought visibility across **115+ projects and 29 KPIs**.
+
+---
+
+## 03 / TECHNICAL TOOLKIT
+
+**DATA & ANALYTICS**
+
+![Python](https://img.shields.io/badge/Python-F5A623?style=flat-square&logo=python&logoColor=0A0A0F)
+![SQL](https://img.shields.io/badge/SQL-F5A623?style=flat-square&logo=postgresql&logoColor=0A0A0F)
+![Power BI](https://img.shields.io/badge/Power_BI-F5A623?style=flat-square&logo=powerbi&logoColor=0A0A0F)
+![Pandas](https://img.shields.io/badge/Pandas-F5A623?style=flat-square&logo=pandas&logoColor=0A0A0F)
+![NumPy](https://img.shields.io/badge/NumPy-F5A623?style=flat-square&logo=numpy&logoColor=0A0A0F)
+
+**FULL-STACK DEVELOPMENT**
+
+![React](https://img.shields.io/badge/React-FF4D6D?style=flat-square&logo=react&logoColor=0A0A0F)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF4D6D?style=flat-square&logo=javascript&logoColor=0A0A0F)
+![Node.js](https://img.shields.io/badge/Node.js-FF4D6D?style=flat-square&logo=nodedotjs&logoColor=0A0A0F)
+![Express](https://img.shields.io/badge/Express-FF4D6D?style=flat-square&logo=express&logoColor=0A0A0F)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FF4D6D?style=flat-square&logo=tailwindcss&logoColor=0A0A0F)
+
+**DATABASES & VISUALIZATION**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F5A623?style=flat-square&logo=postgresql&logoColor=0A0A0F)
+![SQL Server](https://img.shields.io/badge/SQL_Server-F5A623?style=flat-square&logo=microsoftsqlserver&logoColor=0A0A0F)
+![Apache ECharts](https://img.shields.io/badge/ECharts-F5A623?style=flat-square&logo=apacheecharts&logoColor=0A0A0F)
+
+**AUTOMATION & TOOLS**
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-FF4D6D?style=flat-square&logo=powerautomate&logoColor=0A0A0F)
+![Selenium](https://img.shields.io/badge/Selenium-FF4D6D?style=flat-square&logo=selenium&logoColor=0A0A0F)
+![Git](https://img.shields.io/badge/Git-FF4D6D?style=flat-square&logo=git&logoColor=0A0A0F)
+
+---
+
+## 04 / SELECTED WORK
+
+### 01. Job Market Trends Analysis
+
+Exploring job market data to understand salary patterns, hiring trends, and in-demand skills.
+
+**Stack:** Python · Pandas · NumPy · Statistics
+
+[VIEW REPOSITORY →](https://github.com/skand-ahuja/Job-Market-Trends-Analysis)
+
+### 02. Ola Booking Data Analysis
+
+Analyzing booking patterns, cancellations, customer behaviour, and business performance using SQL and Power BI.
+
+**Stack:** SQL Server · SQL · Power BI
+
+[VIEW REPOSITORY →](https://github.com/skand-ahuja/Ola-Booking-Data-Analysis)
+
+### 03. Coffee Shop Sales Dashboard
+
+An interactive sales analysis project exploring product performance, revenue patterns, and business trends.
+
+**Stack:** Excel · Power Query · Power Pivot · DAX
+
+[VIEW REPOSITORY →](https://github.com/skand-ahuja/Coffee-Shop-Sales-Dashboard)
+
+---
+
+## 05 / HOW I THINK ABOUT ENGINEERING
+
+```text
+UNDERSTAND THE PROBLEM
+          ↓
+      FIND THE DATA
+          ↓
+   STRUCTURE THE SYSTEM
+          ↓
+    AUTOMATE THE WORK
+          ↓
+   MAKE RESULTS VISIBLE
+          ↓
+     IMPROVE & ITERATE
 ```
 
-> 💡 *"Data is only as valuable as the decisions it enables."*
+Good engineering is not about using the most tools.
+
+It is about choosing the right tools, understanding the constraints, and building something that makes work simpler.
 
 ---
 
-## 🛠️ Tech Stack
+## 06 / BEYOND THE CODE
 
-<div align="center">
+Currently interested in:
 
-### 📊 Business Intelligence & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### 🗄️ Databases & Query Languages
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🐍 Programming & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### ⚡ Microsoft Power Platform
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🌐 Web Development
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 📈 [Job Market Trends Analysis](https://github.com/skand-ahuja/Job-Market-Trends-Analysis) | 🍕 [Zomato Data Analysis](https://github.com/skand-ahuja/Zomato-Data-Analysis) |
-|:---|:---|
-| End-to-end analysis of job market trends using web data, covering skills in demand, salary ranges, and hiring patterns across industries. | Deep-dive EDA on Zomato restaurant data — uncovering patterns in ratings, cuisines, pricing, and city-level trends using Python. |
-
-| ☕ [Coffee Shop Sales Dashboard](https://github.com/skand-ahuja/Coffee-Shop-Sales-Dashboard) | 🚗 [Ola Booking Data Analysis](https://github.com/skand-ahuja/Ola-Booking-Data-Analysis) |
-|:---|:---|
-| Excel-based interactive dashboard for a coffee shop — revenue analysis, hourly patterns, and product performance at a glance. | Comprehensive analysis of ride-booking data: demand patterns, cancellation insights, driver performance, and city-level breakdowns. |
-
-| 📉 [Real-Time Stock Market Analysis](https://github.com/skand-ahuja/Real-Time-Stock-Market-Analysis) | 🌐 [Portfolio Website](https://github.com/skand-ahuja/portfolio-website) |
-|:---|:---|
-| End-to-end stock market project with real-time data feeds, price forecasting, and visualization dashboards built in Python. | Personal portfolio built with React, Node.js, Express & PostgreSQL — showcasing projects, skills, and contact. |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skand-ahuja&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skand-ahuja&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=skand-ahuja&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)](https://github.com/skand-ahuja)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skand-ahuja&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F78166&area=true&hide_border=true)](https://github.com/skand-ahuja)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github-snake.svg)
-
-> *(Enable GitHub Actions in your profile repo to animate this!)*
-
-</div>
-
----
-
-## 📌 What I'm Working On
-
-- 🔭 **Current:** Building KPI dashboards for Nokia PMO workflows using Power BI + Power Apps + SharePoint
-- 🌱 **Learning:** Snowflake Data Warehousing, advanced Python automation, dbt
-- 👯 **Open to:** Collaborate on data analytics, BI projects, or stock market data engineering
-- 💬 **Ask me about:** Power BI, SQL, Python data pipelines, dashboard design
-- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/skand-ahuja)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=skand-ahuja&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/skand-ahuja)
-
-</div>
+- Analytics engineering and data platforms.
+- Business process automation.
+- Full-stack internal applications.
+- Data visualization and decision-support systems.
+- Building software that solves practical problems.
 
 ---
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:21262D,50:161B22,100:0D1117&height=120&section=footer&text=Let%27s%20build%20something%20with%20data%20%F0%9F%9A%80&fontSize=16&fontColor=58A6FF&animation=twinkling)](https://github.com/skand-ahuja)
+  <h3>LET'S CONNECT</h3>
 
-**⭐ If you like my work, drop a star on any repo! It means a lot 🙏**
+  <a href="https://www.linkedin.com/in/skand-ahuja/">
+    LinkedIn
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/skand-ahuja">
+    GitHub
+  </a>
+
+  <br/><br/>
+
+  <sub>TURNING COMPLEXITY INTO CLARITY.</sub>
 
 </div>
