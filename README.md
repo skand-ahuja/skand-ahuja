@@ -420,7 +420,7 @@ Restaurant-data analysis to explore patterns and business insights.
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/skand-ahuja/github_dark/0-profile-details.svg"
+    src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github_dark/0-profile-details.svg"
     width="100%"
     alt="GitHub Profile Details"
   />
@@ -436,7 +436,7 @@ Restaurant-data analysis to explore patterns and business insights.
 <td width="50%" align="center">
 
 <img
-  src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/skand-ahuja/github_dark/1-repos-per-language.svg"
+  src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github_dark/1-repos-per-language.svg"
   width="100%"
   alt="Repositories by Language"
 />
@@ -445,7 +445,7 @@ Restaurant-data analysis to explore patterns and business insights.
 <td width="50%" align="center">
 
 <img
-  src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/skand-ahuja/github_dark/2-most-commit-language.svg"
+  src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github_dark/2-most-commit-language.svg"
   width="100%"
   alt="Most Commit Languages"
 />
@@ -461,7 +461,7 @@ Restaurant-data analysis to explore patterns and business insights.
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/skand-ahuja/github_dark/3-stats.svg"
+    src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github_dark/3-stats.svg"
     width="85%"
     alt="GitHub Statistics"
   />
@@ -475,7 +475,7 @@ Restaurant-data analysis to explore patterns and business insights.
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/skand-ahuja/github_dark/4-productive-time.svg"
+    src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/github_dark/4-productive-time.svg"
     width="85%"
     alt="GitHub Productive Time"
   />
