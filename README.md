@@ -279,6 +279,7 @@ me = SkandAhuja()
 
 
 
+
 <!-- ====================================================== -->
 <!--                  FEATURED PROJECTS                    -->
 <!-- ====================================================== -->
@@ -298,12 +299,14 @@ me = SkandAhuja()
 <td width="50%" valign="top">
 
 <a href="https://github.com/skand-ahuja/Job-Market-Trends-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skand-ahuja&repo=Job-Market-Trends-Analysis&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=F5A623&icon_color=FF4D6D&text_color=C9D1D9" width="100%" alt="Job Market Trends Analysis"/>
+<img src="./assets/images/projects/job-market.jpg" width="100%" alt="Job Market Trends Analysis"/>
 </a>
 
-<h4>01 / JOB MARKET TRENDS ANALYSIS</h4>
+**01 / JOB MARKET TRENDS ANALYSIS**
 
-<p>Exploring job-market data to identify patterns, trends, and insights.</p>
+Exploring job-market data to identify patterns, trends, and insights.
+
+<sub>PYTHON · PANDAS · DATA ANALYSIS</sub>
 
 <a href="https://github.com/skand-ahuja/Job-Market-Trends-Analysis">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-F5A623?style=flat-square&logo=github&logoColor=0A0A0F" alt="View Project"/>
@@ -313,12 +316,14 @@ me = SkandAhuja()
 <td width="50%" valign="top">
 
 <a href="https://github.com/skand-ahuja/Ola-Booking-Data-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skand-ahuja&repo=Ola-Booking-Data-Analysis&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=F5A623&icon_color=FF4D6D&text_color=C9D1D9" width="100%" alt="Ola Booking Data Analysis"/>
+<img src="./assets/images/projects/ola-booking.jpg" width="100%" alt="Ola Booking Data Analysis"/>
 </a>
 
-<h4>02 / OLA BOOKING DATA ANALYSIS</h4>
+**02 / OLA BOOKING DATA ANALYSIS**
 
-<p>Analyzing ride-booking data to explore operational patterns and business insights.</p>
+Analyzing ride-booking data to explore operational patterns and business insights.
+
+<sub>SQL · DATA ANALYTICS</sub>
 
 <a href="https://github.com/skand-ahuja/Ola-Booking-Data-Analysis">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-F5A623?style=flat-square&logo=github&logoColor=0A0A0F" alt="View Project"/>
@@ -331,12 +336,14 @@ me = SkandAhuja()
 <td width="50%" valign="top">
 
 <a href="https://github.com/skand-ahuja/Coffee-Shop-Sales-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skand-ahuja&repo=Coffee-Shop-Sales-Dashboard&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=F5A623&icon_color=FF4D6D&text_color=C9D1D9" width="100%" alt="Coffee Shop Sales Dashboard"/>
+<img src="./assets/images/projects/coffee-shop.jpg" width="100%" alt="Coffee Shop Sales Dashboard"/>
 </a>
 
-<h4>03 / COFFEE SHOP SALES DASHBOARD</h4>
+**03 / COFFEE SHOP SALES DASHBOARD**
 
-<p>Sales analytics focused on business performance and trend exploration.</p>
+Sales analytics focused on business performance and trend exploration.
+
+<sub>POWER BI · EXCEL</sub>
 
 <a href="https://github.com/skand-ahuja/Coffee-Shop-Sales-Dashboard">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-F5A623?style=flat-square&logo=github&logoColor=0A0A0F" alt="View Project"/>
@@ -346,12 +353,14 @@ me = SkandAhuja()
 <td width="50%" valign="top">
 
 <a href="https://github.com/skand-ahuja/Zomato-Data-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=skand-ahuja&repo=Zomato-Data-Analysis&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=F5A623&icon_color=FF4D6D&text_color=C9D1D9" width="100%" alt="Zomato Data Analysis"/>
+<img src="./assets/images/projects/zomato.jpg" width="100%" alt="Zomato Data Analysis"/>
 </a>
 
-<h4>04 / ZOMATO DATA ANALYSIS</h4>
+**04 / ZOMATO DATA ANALYSIS**
 
-<p>Restaurant-data analysis to explore patterns and business insights.</p>
+Restaurant-data analysis to explore patterns and business insights.
+
+<sub>DATA ANALYTICS · VISUALIZATION</sub>
 
 <a href="https://github.com/skand-ahuja/Zomato-Data-Analysis">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-F5A623?style=flat-square&logo=github&logoColor=0A0A0F" alt="View Project"/>
@@ -365,12 +374,25 @@ me = SkandAhuja()
 
 <div align="center">
 <a href="https://github.com/skand-ahuja?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-FF4D6D?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-FF4D6D?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
 </a>
 </div>
 
-<!-- ================= END FEATURED PROJECTS ============== -->
+<!-- ============== END FEATURED PROJECTS ================ -->
 
+
+
+
+
+<h3 align="center">CONTRIBUTION STREAK</h3>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=skand-ahuja&theme=dark&hide_border=true&background=0A0A0F&ring=F5A623&fire=FF4D6D&currStreakLabel=F5A623&sideLabels=C9D1D9&dates=888888"
+    width="85%"
+    alt="GitHub Contribution Streak"
+  />
+</div>
 
 
 
@@ -383,11 +405,54 @@ me = SkandAhuja()
 <h2 align="center">GITHUB ANALYTICS</h2>
 
 <div align="center">
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=650&height=25&lines=Consistency+creates+momentum."
-  alt="GitHub Analytics"
- />
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=650&height=25&lines=Consistency+creates+momentum."
+    alt="GitHub Analytics"
+  />
+
 </div>
+
+<br/>
+
+<!-- PROFILE OVERVIEW -->
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/skand-ahuja/github_dark/0-profile-details.svg"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
+
+</div>
+
+<br/>
+
+<!-- LANGUAGE ANALYTICS -->
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img
+  src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/skand-ahuja/github_dark/1-repos-per-language.svg"
+  width="100%"
+  alt="Repositories by Language"
+/>
+
+</td>
+<td width="50%" align="center">
+
+<img
+  src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/skand-ahuja/github_dark/2-most-commit-language.svg"
+  width="100%"
+  alt="Most Commit Languages"
+/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -396,50 +461,29 @@ me = SkandAhuja()
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=skand-ahuja&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=F5A623&icon_color=FF4D6D&text_color=C9D1D9&rank_icon=github"
-    width="49%"
+    src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/skand-ahuja/github_dark/3-stats.svg"
+    width="85%"
     alt="GitHub Statistics"
   />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=skand-ahuja&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=F5A623&text_color=C9D1D9&langs_count=8"
-    width="49%"
-    alt="Top Languages"
-  />
-
 </div>
 
 <br/>
 
-<!-- CONTRIBUTION STREAK -->
+<!-- PRODUCTIVE TIME -->
 
 <div align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=skand-ahuja&theme=dark&hide_border=true&background=0A0A0F&ring=F5A623&fire=FF4D6D&currStreakLabel=F5A623&sideLabels=C9D1D9&dates=888888"
+    src="https://raw.githubusercontent.com/skand-ahuja/skand-ahuja/output/skand-ahuja/github_dark/4-productive-time.svg"
     width="85%"
-    alt="GitHub Contribution Streak"
+    alt="GitHub Productive Time"
   />
 
 </div>
 
-<br/>
+<!-- ============== END GITHUB ANALYTICS ================== -->
 
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-
-<h3 align="center">CONTRIBUTION ACTIVITY</h3>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=skand-ahuja&bg_color=0A0A0F&color=F5A623&line=FF4D6D&point=F5A623&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-
-</div>
-
-<!-- ================= END GITHUB ANALYTICS =============== -->
 
 
 
@@ -480,3 +524,43 @@ me = SkandAhuja()
 </div>
 
 <!-- ============== END CONTRIBUTION SNAKE ================ -->
+
+
+
+
+<!-- ====================================================== -->
+<!--                       FOOTER                           -->
+<!-- ====================================================== -->
+
+<br/><br/>
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1D20,100:0A0A0F&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+
+  <h3>BUILDING SYSTEMS THAT MAKE DATA USEFUL.</h3>
+
+  <sub>
+    Data Analytics · Automation · Full-Stack Engineering
+  </sub>
+
+  <br/><br/>
+
+  <a href="https://github.com/skand-ahuja">
+    <img
+      src="https://img.shields.io/badge/BUILT_WITH_PURPOSE-F5A623?style=flat-square&logo=github&logoColor=0A0A0F"
+      alt="Built with purpose"
+    />
+  </a>
+
+  <br/><br/>
+
+  <sub>© Skand Ahuja · Always learning. Always building.</sub>
+
+</div>
+
+<!-- ==================== END FOOTER ====================== -->
